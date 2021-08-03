@@ -2,5 +2,5 @@
 
 ### Info
 
-1. [https://www.youtube.com/watch?v=jk1T0CdLxwU](Intro to Figma - Beginners guide to Figma Basics)
+1. [Intro to Figma - Beginners guide to Figma Basics](https://www.youtube.com/watch?v=jk1T0CdLxwU)
 2. 
