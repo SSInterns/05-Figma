@@ -17,3 +17,15 @@
 https://webdesign.tutsplus.com/tutorials/how-to-build-web-form-layouts-with-css-grid--cms-28776
 
 https://www.bitdegree.org/learn/css-form
+
+ZADANIA:
+
+1. Przygotuj wireframe strony desktop pozwalającej użytkownikowi przeglądać usługi z różnych kategorii. 
+
+- Wymyśleć 20 usług (wypisać na liście) każda usługa ma parametry (np powierzchnia)
+- Założyć 4 usługodawcóww (wszyscy powinni być dostępni dla użytkownika w jednym widoku)
+- Usługodawcy moga oferować wykonanie wybranych lub wszystkich usług
+- Uwzględnic różne kryteria sortowania (cena, czas wykonania, miasto)
+- zasttosuj suwak/suwaki do określania wartości kryteriów (o ile to możliwe).
+
+Przygotuj Prototyp z kilkoma widokami.
