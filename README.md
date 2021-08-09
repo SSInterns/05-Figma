@@ -27,5 +27,6 @@ ZADANIA:
 - Usługodawcy moga oferować wykonanie wybranych lub wszystkich usług
 - Uwzględnic różne kryteria sortowania (cena, czas wykonania, miasto)
 - zasttosuj suwak/suwaki do określania wartości kryteriów (o ile to możliwe).
+- przedstaw interaktywnie scroll, zwiń/rozwiń wszystko.
 
 Przygotuj Prototyp z kilkoma widokami.
