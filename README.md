@@ -2,7 +2,9 @@
 
 ### Info
 
-[Web Design vs Web Development | What's right for you?]()
+[Jak stać się ekspertem z dziedziny web designu?](https://webwavecms.com/blog/jak-zostac-webdesignerem#skad-czerpac-informacje)
+
+[Web Design vs Web Development | What's right for you?](https://www.youtube.com/watch?v=Ujc3yhN9E5Y)
 
 [3 Principles for better Web Design: Navigation, Hierarchy & Color](https://youtu.be/GJN7TemsZtY)
 
