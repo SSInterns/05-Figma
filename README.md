@@ -14,6 +14,8 @@
 
 [Beginner's Web Design Tutorial for 2018 - Part 1 of 2 - Adobe XD](https://youtu.be/alswD2tCc_Q)
 
+[Adobe XD vs Figma The Ultimate Battle!](https://youtu.be/zRPHwTsEgxw)
+
 ## Forms CSS
 
 https://webdesign.tutsplus.com/tutorials/how-to-build-web-form-layouts-with-css-grid--cms-28776
