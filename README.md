@@ -39,6 +39,6 @@ Przygotuj Prototyp z kilkoma widokami.
 
 2. Odwzoruj w Figma projekt dashboardu na podsatawie załączonego przykładu.
 
-3. Przygotuj projekt strony HTML5 implementując responsywność (jeden breakpoint, namiana na jedną kolumnę).
+3. Przygotuj projekt strony HTML5 implementując responsywność (jeden breakpoint, zmmiana na jedną kolumnę).
 
 ```
