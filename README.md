@@ -22,6 +22,7 @@ https://webdesign.tutsplus.com/tutorials/how-to-build-web-form-layouts-with-css-
 
 https://www.bitdegree.org/learn/css-form
 
+```
 ZADANIA:
 
 1. Przygotuj wireframe strony desktop pozwalającej użytkownikowi przeglądać usługi z różnych kategorii. 
@@ -35,3 +36,9 @@ ZADANIA:
 - przedstaw interaktywnie scroll, zwiń/rozwiń wszystko.
 
 Przygotuj Prototyp z kilkoma widokami.
+
+2. Odwzoruj w Figma projekt dashboardu na podsatawie załączonego przykładu.
+
+3. Przygotuj projekt strony HTML5 dashboardu z przykładu.
+
+```
