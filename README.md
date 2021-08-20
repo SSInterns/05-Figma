@@ -27,7 +27,7 @@ ZADANIA:
 
 1. Przygotuj wireframe strony desktop pozwalającej użytkownikowi przeglądać usługi z różnych kategorii. 
 
-- zebrać referencje (zrzuty ekranu i/lub linki stron o podobnej funkcjonalności)
+- zebrać referencje (zrzuty ekranu stron o podobnej funkcjonalności)
 - Wymyśleć 20 usług (wypisać na liście) każda usługa ma parametry (np powierzchnia)
 - Założyć 4 usługodawcóww (wszyscy powinni być dostępni dla użytkownika w jednym widoku)
 - Usługodawcy moga oferować wykonanie wybranych lub wszystkich usług
